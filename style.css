@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(31, 30, 30);
+    margin-left: 10%;
+}
+
+.navbar {
+    position: fixed;
+    z-index: 1;
+}
+
+.navbar ul {
+    padding: 20px 10px;
+    margin-left: 250px;
+}
+
+.navbar li {
+    list-style: none;
+    display: inline;
+    padding-left: 50px;
+}
+
+.navbar li a {
+    color: white;
+    text-decoration: none;
+    font-family: josefin sans;
+}
+
+.navbar li a:hover {
+    color: coral;
+}
+
+
+.dabba-1 {
+    
+    background-color: royalblue;
+    height: 1000px;
+    width: 90%;
+}
+
